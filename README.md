@@ -18,7 +18,7 @@
 A python script that outputs a random quote from The Lord of the Rings.
 
 # Usage
-Run `python lotr.py`
+Run `python lotrquotes.py`
 
 # Prerequisites
 Python 3.x (Tested with Python 3.9 only!)
