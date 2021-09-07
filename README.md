@@ -24,11 +24,9 @@ Run `python lotrquotes.py`
 Python 3.x (Tested with Python 3.9 only!)
 
 # Credits
-Banner taken from https://www.asciiart.eu/books/lord-of-the-rings
+**Banner** taken from https://www.asciiart.eu/books/lord-of-the-rings (Credited to Blazej Kozlowski)
 
-Credited to Blazej Kozlowski
-
-Quotes from The Lord of the Rings were originally taken from Wikiquote:
+**Quotes** from The Lord of the Rings were originally taken from Wikiquote:
 
 https://en.m.wikiquote.org/wiki/The_Fellowship_of_the_Ring,
 
